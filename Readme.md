@@ -1,4 +1,4 @@
-# Hello! This is Test
+# Hello! This Chatbot in Slack
 
 ## Python requirements
 - click==6.7
@@ -18,23 +18,24 @@
 - beautifulsoup4==4.6.3  
 
 
-## 이건 챗봇 테스트 입니다.
-### 챗보옷
-#### hello
-##### hello
-###### dot list
+## NaverWebtoon_bot
+### 챗봇
+    가이드라인 공간  
+### 기능
+    - 1
+    - 2
+    - 3
+    
+##### dot list & Image
 - one
-   - two
-   - three
-        - four
-
-    - five
-
-[naver다](www.naver.com)
+- two
+- three
+- four
+- five
 
 ![image](https://user-images.githubusercontent.com/14273642/50328569-fcd98f00-0536-11e9-9eb1-46ff11ff5c5e.png)
 
-## 설명
+## chart
 |sk|score|
 |---|---|
 |sd|sdsd|
@@ -42,5 +43,14 @@
 |sd|sdsd|
 
 ## 참고
-,. 이거 왜 안되냐?
+,. 이거 왜??
+
+## using git
+1. git status
+2. git add .
+3. git commit -m "NAME"
+4. git push -f origin master
+5. git log --oneline
+
+
 
