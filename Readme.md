@@ -65,26 +65,5 @@
     - 정확하지 않는 검색은 실패 표시
     - 가이드라인 이외 입력은 다시 가이드라인 표시
 
-![image](https://user-images.githubusercontent.com/14273642/50328569-fcd98f00-0536-11e9-9eb1-46ff11ff5c5e.png)
-
-
 ## 참고
-,. 이거 왜??
-
-## chart
-|sk|score|
-|---|---|
-|sd|sdsd|
-|sd|sdsd|
-|sd|sdsd|
-
-## using git
-1. git status
-2. git add .
-3. git commit -m "NAME"
-4. git push -f origin master
-5. git log --oneline
-
-
-
 
